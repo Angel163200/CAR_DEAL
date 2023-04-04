@@ -24,7 +24,7 @@ The code is a website that displays cars for sale, and the buyer inquires about 
 - composer install
 - copy .env.example to .env
 - php artisan key:generate
-- create database name car_deal on xampp server http://localhost/phpmyadmin/index.php?route=/server/databases.
+- create database name car_deal on xampp server
 - php artisan migrate:fresh
 - php artisan db:seed
 - php artisan serve
