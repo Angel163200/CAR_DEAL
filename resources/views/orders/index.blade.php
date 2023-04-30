@@ -76,7 +76,7 @@
                             </div>
                             <div class="col-12 mt-3 text-center">
                                 <button type="button" class="btn btn-primary rounded-0" id="printOrders">
-                                    <span class="tf-icons bx bx-printer"></span>&nbsp; Print
+                                    <span class="tf-icons bx bx-printer"></span>&nbsp; Print Details
                                 </button>
                             </div>
                         </div>
