@@ -63,7 +63,7 @@
                                         <small class="lname-error fs-5 text-danger"></small>
                                     </div>
                                     <div class="mb-3 col-md-6">
-                                        <label for="email" class="form-label">E-mail</label>
+                                        <label for="email" class="form-label">Email</label>
                                         <input class="form-control" type="text" id="email" name="email"
                                             value="{{ Auth::user()->email }}" placeholder="email@example.com" />
                                         <small class="email-error fs-5 text-danger"></small>
@@ -154,7 +154,7 @@
                                         </div>
                                     </div>
                                     <div class="col form-password-toggle">
-                                        <label class="form-label" for="password">password confirm</label>
+                                        <label class="form-label" for="password">Confirm Password</label>
                                         <div class="input-group input-group-merge">
                                             <input id="password-confirm" type="password"
                                                 class="form-control @error('password') is-invalid @enderror"
