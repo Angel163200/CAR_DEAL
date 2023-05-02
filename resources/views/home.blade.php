@@ -29,7 +29,7 @@
             <div class="card shadow-lg rounded">
                 <div class="card-body">
                     <div class="card-header font-monospace fs-3 text-success px-0">
-                        Cars Total Sum
+                        Cars Total Amount
                     </div>
                     <div class="card-title d-flex align-items-center justify-content-between">
                         <div class="fs-1">
@@ -73,7 +73,7 @@
             <div class="card shadow-lg rounded">
                 <div class="card-body">
                     <div class="card-header fs-3 font-monospace text-danger px-0">
-                        Orader Incomplete
+                        Order Incomplete
                     </div>
                     <div class="card-title d-flex align-items-center justify-content-between">
                         <div class="fs-1">
@@ -93,7 +93,7 @@
             <div class="card shadow-lg rounded">
                 <div class="card-body">
                     <div class="card-header font-monospace fs-3 text-success px-0">
-                        Orader Complete
+                        Order Complete
                     </div>
                     <div class="card-title d-flex align-items-center justify-content-between">
                         <div class="fs-1">
