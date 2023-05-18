@@ -29,7 +29,7 @@
             <div class="card shadow-lg rounded">
                 <div class="card-body">
                     <div class="card-header font-monospace fs-3 text-success px-0">
-                        Cars Total Amount
+                        Cars Total 
                     </div>
                     <div class="card-title d-flex align-items-center justify-content-between">
                         <div class="fs-1">
