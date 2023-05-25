@@ -22,7 +22,7 @@
                                         <th>#</th>
                                         <th>Name</th>
                                         <th>E-mail</th>
-                                        <th>role</th>
+                                        <th>Role</th>
                                         <th>Created</th>
                                         <th>Updated</th>
                                         <th>Actions</th>
