@@ -38,7 +38,7 @@
                                             <i class="bx bx-reset d-block d-sm-none"></i>
                                             <span class="d-none d-sm-block">Reset</span>
                                         </button>
-                                        <p class="text-muted mb-0">Allowed JPG, GIF or PNG. Max size of 800K</p>
+                                        <p class="text-muted mb-0">Allowed JPG, GIF or PNG. Max size of 800KB</p>
                                     </div>
                                 </div>
                                 <div class="mt-2">
