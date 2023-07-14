@@ -24,7 +24,7 @@
                                         <tr>
                                             <th>#</th>
                                             <th>Car</th>
-                                            <th>Usre</th>
+                                            <th>User</th>
                                             <th>Type</th>
                                             <th>Price</th>
                                             <th>Color</th>
